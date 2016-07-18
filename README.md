@@ -29,7 +29,7 @@ You will need to do the following for this assignment to be considered complete.
 ### As a team:
 
 1. Fork this base repository (one team member should fork first and then add the other as a contributor). 
-2. Create your base presentation slides using the included Markdown template and convert it to HTML5 using Pandoc. Instructions for this are on the course site.  
+2. Create your base presentation slides using the included Markdown template and convert it to HTML5 using Pandoc. Instructions for this are in the `INSTRUCTIONS.md` file in this repository.
 3. Add speaker notes to enclose the text of your presentation. 
 4. Add images, styles, and fragments accordingly. 
 4. Narrate audio of the presentation (both team members must have their voices in the audio).
