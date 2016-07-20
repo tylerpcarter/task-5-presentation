@@ -6,4 +6,4 @@
 Jake Hoertt and Jesus Barreto
 
 # What is a Marsupial?
-<aside class= " A Marsupial is a pouched mammal that gives birth to an undeveloped fetus"
+<aside class= " A Marsupial is a pouched mammal that gives birth to an undeveloped fetus"></aside>
