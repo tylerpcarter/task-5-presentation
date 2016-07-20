@@ -5,7 +5,7 @@
 # Marsupials
 Jake Hoertt and Jesus Barreto
 
-# What is a Marsupial?
+# What is a marsupial?
 <aside class = " A Marsupial is a pouched mammal that gives birth to an undeveloped fetus. Marsupials are structurally diverse and come in many shapes and sizes.">
 </aside>
 
@@ -20,3 +20,17 @@ Jake Hoertt and Jesus Barreto
 
 #
 <img src="http://thumbs.media.smithsonianmag.com//filer/evotourism-Kangaroo-Island-Australia-631.jpg__800x600_q85_crop.jpg" alt="roo closeup" height="42" width="42">
+
+# What are some common marsupials?
+<aside class = "What are some well known marsupials?">
+</aside>
+
+# 
+<img src="http://thumbs.media.smithsonianmag.com//filer/evotourism-Kangaroo-Island-Australia-631.jpg__800x600_q85_crop.jpg" alt="roo closeup" height="42" width="42">
+<aside class = " Kangaroos are the largest marsupial. They are native to Australia and not endangered. Female Kangaroos can be seen carrying their young, called joeys, in their pouches. 
+Kangaroos have become an unofficial symobl of Australia. They can also be seen boxing eachother in the wild." ></aside>
+
+#
+
+
+
