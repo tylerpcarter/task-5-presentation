@@ -5,17 +5,12 @@
 		<meta charset="utf-8">
 		
 		<!-- BASE URL: change this href to the intended URL of your slide show, e.g. - http://USERNAME.github.io/SLIDESHOW-REPO/ -->
-		<base href="$revealjs-url$/"> 
+		<base href=".//"> 
 
-		<title>$title$</title>
+		<title>An example reveal.js slide presentation</title>
 		
-$if(description)$
-		<meta name="description" content="$description$">
-$endif$
 		
-$for(author)$
-		<meta name="author" content="$author$">
-$endfor$
+		<meta name="author" content="John D. Martin III">
 		
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -23,17 +18,9 @@ $endfor$
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 		
 		<link rel="stylesheet" href="css/reveal.css">
-$if(theme)$
-		<link rel="stylesheet" href="css/theme/$theme$.css" id="theme">
-$else$
 		<link rel="stylesheet" href="css/theme/black.css" id="theme">
-$endif$
 		<!-- Code syntax highlighting -->
-$if(highlight-style)$
-  		<link rel="stylesheet" href="lib/css/$highlight-style$.css">
-$else$
   		<link rel="stylesheet" href="lib/css/zenburn.css">
-$endif$
 
 		<!-- Printing and PDF exports -->
 		<script>
@@ -47,15 +34,9 @@ $endif$
 		<!--[if lt IE 9]>
 		<script src="lib/js/html5shiv.js"></script>
 		<![endif]-->
-$for(header-includes)$
-	$header-includes$
-$endfor$
 	</head>
 
 	<body>
-$for(include-before)$
-	$include-before$
-$endfor$
 		
 		<div class="reveal">
 
@@ -63,14 +44,14 @@ $endfor$
 			<div class="slides">
 				
 				<section>
-					<h1>$title$</h1>
-					$for(author)$<h3>$author$</h3>$endfor$
+					<h1>An example reveal.js slide presentation</h1>
+					<h3>John D. Martin III</h3>
 					<p>
-						<h4>$date$</h4>
+						<h4>19 July, 2016</h4>
 					</p>
 				</section>
 			
-<!--BEGIN: REMOVE OR COMMENT THIS SECTION FOR YOUR FINAL PRESENTATION
+<!--BEGIN: REMOVE OR COMMENT THIS SECTION FOR YOUR FINAL PRESENTATION-->
 				<section id="example" class="slide level1" data-background="#000" data-background="images/cursor.gif" data-audio-src="audio/1.0.ogg">
 					
 					<h2 style="color:#22ff00">
@@ -88,16 +69,39 @@ $endfor$
 				</section>
 <!--END: REMOVE OR COMMENT THIS SECTION FOR YOUR FINAL PRESENTATION-->
 			
-$if(toc)$
-				<section>
-  					<h2>Outline</h2>
-  					<nav id="$idprefix$TOC">
-    					$toc$
-  					</nav>
-				</section>
-$endif$
 
-$body$
+<section id="markdown-in-html5" class="slide level1"  data-audio-src="audio/2.0.ogg">
+<h1>Markdown in, HTML5</h1>
+<pre><code>pandoc -t revealjs --template=template-index.html -s --variable theme=&quot;black&quot; --variable transition=&quot;slide&quot; --variable revealjs-url=&quot;http://YOUR-USERNAME.github.io/YOUR-REPO-NAME/&quot; YOUR-MARKDOWN-FILENAME.md -o YOUR-HTML-FILENAME.html</code></pre>
+<aside class="notes">
+Every top level markdown header in this file will be translated into a &quot;section&quot; in your HTML5 output. This output will be plain, using only the base reveal.js style. The command above, mutatis mutandis, will let you do the conversion.
+</aside>
+</section>
+<section id="adding-audio" class="slide level1">
+<h1>Adding audio</h1>
+<pre><code>&lt;section id=&quot;my-slide&quot; class=&quot;slide level1&quot; data-audio-src=&quot;audio/myaudio01.ogg&quot;&gt;
+  &lt;h2&gt;
+    My slide
+  &lt;/h2&gt;
+&lt;/section&gt;</code></pre>
+<aside class="notes">
+To add audio, you have to add the data-audio-src attribute and specify a path to the associated audio file in your HTML file, as shown on the screen. Using this technique, you should only add the audio after you have written your presentation in the form of the file that we converted to make this presentation. That input file uses markdown with embedded &quot;aside&quot; tags with notes as the class. You can also add audio files to the &quot;audio&quot; directory named one point zero dot ogg, two point zero dot ogg, an d so one, corresponding to the appropriate slide number.
+</aside>
+</section>
+<section id="experimenting" class="slide level1">
+<h1>Experimenting</h1>
+<pre><code>git add -v .
+git commit -a -m &quot;I made a small change&quot;
+git push</code></pre>
+<aside class="notes">
+<p>Reveal is very powerful, so try exploring some of its features, but be careful not to make any changes that you can't roll back. In other words, make a change, use git to add, commit, and push. Then test. If you don't like the change, you can always roll it back. If you do this, then you will be able to fix things easily if you break something by reverting your last commit. If you are testing locally, you don't have to push your changes. Just commit them. You will still be able to roll them back using the git revert command. &lt;&gt;</p>
+</section>
+<section id="enjoy" class="slide level1">
+<h1>Enjoy</h1>
+<aside class="notes">
+Once you get used to using reveal, you might actually enjoy the fact that all you have to do is write. No more messy GUI hiding your text from you. No more buttons and drop-downs and the temptation to use too many effects. You now have a very powerful tool in your hands for creating presentations that can be shown in any web browser, anywhere. If you keep your work in GitHub or somewhere similar, you can also easily share your finished presentations.
+</aside>
+</section>
 
 			</div>
 
@@ -116,11 +120,7 @@ $body$
 				history: true,
 				center: true,
 
-$if(transition)$
-				transition: '$transition$', // none/fade/slide/convex/concave/zoom
-$else$
 				transition: 'slide', // none/fade/slide/convex/concave/zoom
-$endif$
 				
 				// USE THESE SETTINGS FOR THE AUDIO AND AUTO-ADVANCE
 				//autoSlide: 5000,
