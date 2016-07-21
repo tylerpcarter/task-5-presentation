@@ -42,6 +42,7 @@ Kangaroos have become an unofficial symobl of Australia. They can also be seen b
 <aside class = " Known as Koala Bears, they are actually Koala marsupials. Koalas are tree-dwellers and primarily eat eucalyptus plants. They have one of the smallest brains in proportion to body weight in the animal kingdom and have an underdeveloped sense of sight. Australian folklore tells of an unusually large Koala that preys on tourists, known as a drop bear." ></aside>
 
 #
+<<<<<<< HEAD
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Dropbear.jpg" alt="drop bear" height="100%" width="100%">
 
 #
@@ -84,3 +85,7 @@ Kangaroos have become an unofficial symobl of Australia. They can also be seen b
 <aside class = "The quokka. A very happy, slightly psychotic looking animal."></aside>
 
 # Thank you
+=======
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Dropbear.jpg" alt="drop bear" height="42" width="42">
+
+>>>>>>> 554c87b64586893120f0225a6ac4da9b01499ca4
