@@ -32,7 +32,7 @@ Or something like this could happen to you.
 
 </section>
 
-<section data-background-video = "http://www.tubechop.com/watch/8195927" data-background-video-muted = "true">
+<section data-background = https://i.ytimg.com/vi/gGNOgDKDHIE/hqdefault.jpg>
 
 <aside class = "notes">
 Guess who is in charge of cleaning this up. 
