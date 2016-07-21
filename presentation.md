@@ -34,5 +34,13 @@ Kangaroos have become an unofficial symobl of Australia. They can also be seen b
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AiTG6T9pTcM?start=140&end=165&autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 #
+<<<<<<< HEAD
 
 
+=======
+<img src="http://static1.squarespace.com/static/5005afd7e4b0a6953320bf3f/t/528cfce6e4b0c1452601a558/1384971527352/4651364311_f505cc3cc3_o.jpg" alt="koala eating" height="42" width="42">
+<aside class = " Known as Koala Bears, they are actually Koala marsupials. Koalas are tree-dwellers and primarily eat eucalyptus plants. They have one of the smallest brains in proportion to body weight in the animal kingdom and have an underdeveloped sense of sight. Australian folklore tells of an unusually large Koala that preys on tourists, known as a drop bear." ></aside>
+
+#
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Dropbear.jpg" alt="drop bear" height="42" width="42">
+>>>>>>> a4b783f5a098891091ece7f6b693c11f5a634dce
