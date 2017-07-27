@@ -43,5 +43,3 @@ Reveal is very powerful, so try exploring some of its features, but be careful n
 <aside class="notes">
 Once you get used to using reveal, you might actually enjoy the fact that all you have to do is write. No more messy GUI hiding your text from you. No more buttons and drop-downs and the temptation to use too many effects. You now have a very powerful tool in your hands for creating presentations that can be shown in any web browser, anywhere. If you keep your work in GitHub or somewhere similar, you can also easily share your finished presentations. 
 </aside>
-
-# Slide
