@@ -1,12 +1,12 @@
 % Pesticides
 % Tyler Carter
 % 27 July, 2017
-<h2 style="color:#22ff00">
+
 # Background to Know 
 Definition and Impact
-</h2>
-<img src="https://www.exposingtruth.com/wp-content/uploads/2015/03/Crop-Duster.jpg"  height="150" width="300">
-<img src="http://sitn.hms.harvard.edu/wp-content/uploads/2015/08/4478664134_e7c26e5c87_o.jpg"  height="150" width="300">
+
+<img src="https://www.exposingtruth.com/wp-content/uploads/2015/03/Crop-Duster.jpg"  height="200" width="400">
+<img src="http://sitn.hms.harvard.edu/wp-content/uploads/2015/08/4478664134_e7c26e5c87_o.jpg"  height="200" width="400">
 
 <aside class="notes">
 According to the NIEHS, a pesticide is “any substance used to kill, repel, or control certain forms of plant or animal life that are considered to be pests.”
@@ -17,8 +17,8 @@ Rachel Carson’s “Silent Spring” alerted the world of the harmful effects o
 
 # Environmental Impact
 
-<img src="http://pest.ca.uky.edu/PSEP/images/runoff.jpg"  height="150" width="300">
-<img src="http://www.dpi.nsw.gov.au/__data/assets/image/0009/633069/sediment-run-off.jpg"  height="150" width="300">
+<img src="http://pest.ca.uky.edu/PSEP/images/runoff.jpg"  height="250" width="450">
+<img src="http://www.dpi.nsw.gov.au/__data/assets/image/0009/633069/sediment-run-off.jpg"  height="250" width="450">
 
 
 <aside class="notes">
@@ -28,7 +28,8 @@ Concerning humans, according to the NIEHS, evidence suggests that children who h
 
 # Implemented Regulations
 EPA
-<img src="http://npic.orst.edu/images/eparegbnr.jpg"  height="200" width="200">
+
+<img src="http://npic.orst.edu/images/eparegbnr.jpg"  height="200" width="300">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Warning2Pesticides.jpg/220px-Warning2Pesticides.jpg" height="200" width="200">
 
 <aside class="notes">
@@ -47,7 +48,7 @@ At best, these regulations thus far have only “minorly” slowed our destructi
 
 # Implemented Solutions
 
-<img src="http://landscapemanagement.net/wp-content/uploads/2015/02/Robertson-blog-300x182.jpg"  height="182" width="300">
+<img src="http://landscapemanagement.net/wp-content/uploads/2015/02/Robertson-blog-300x182.jpg"  height="364" width="600">
 
 <aside class="notes">
 Well, the problem that presents itself to us is that we are dependent on these chemicals because they keep our foods safe from pests, so that they can grow. A solution that has been used now to break ourselves from this dependence is bees. That’s right.
@@ -67,9 +68,8 @@ IPM has proved since around 1972 to be an extremely useful and successful tool. 
 
 # Unique Solutions
 
-<img src="https://i5.walmartimages.com/asr/f78df6ec-a5d5-4589-bfae-29a4ba8001d7_1.d1e5b8291bf12d63d511afeede20c1ae.jpeg"  height="100" width="200">
-<img src="https://images-na.ssl-images-amazon.com/images/I/41Lgw3jfupL.jpg"  height="100" width="200">
-<img src="https://i5.walmartimages.com/asr/f78df6ec-a5d5-4589-bfae-29a4ba8001d7_1.d1e5b8291bf12d63d511afeede20c1ae.jpeg"  height="100" width="200">
+<img src="https://i5.walmartimages.com/asr/f78df6ec-a5d5-4589-bfae-29a4ba8001d7_1.d1e5b8291bf12d63d511afeede20c1ae.jpeg"  height="300" width="300">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41Lgw3jfupL.jpg"  height="400" width="100">
 
 <aside class="notes">
 There are always downsides to every idea, but I propose two solutions to losing reliance on pesticides:
