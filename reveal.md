@@ -1,9 +1,10 @@
 % Pesticides
 % Tyler Carter
 % 27 July, 2017
-
+<h2 style="color:#22ff00">
 # Background to Know 
 Definition and Impact
+</h2>
 <img src="https://www.exposingtruth.com/wp-content/uploads/2015/03/Crop-Duster.jpg"  height="150" width="300">
 <img src="http://sitn.hms.harvard.edu/wp-content/uploads/2015/08/4478664134_e7c26e5c87_o.jpg"  height="150" width="300">
 
