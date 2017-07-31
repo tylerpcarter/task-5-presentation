@@ -23,6 +23,7 @@ Rachel Carson’s “Silent Spring” alerted the world of the harmful effects o
 
 <aside class="notes">
 As mentioned in the previous slide, pesticides pose a potentially detrimental consequence on the environment.
+Pesticides can contaminate soil, water, turf, and other vegetation. In addition to killing insects or weeds, pesticides can be toxic to a host of other organisms including birds, fish, beneficial insects, and non-target plants. Insecticides are generally the most acutely toxic class of pesticides, but herbicides can also pose risks to non-target organisms.
 Concerning humans, according to the NIEHS, evidence suggests that children who have been exposed to pesticides have been linked to neurodevelopmental issues. Farmers who use the harmful chemicals experienced an increase in headaches, fatigue, insomnia, dizziness, hand tremors, and other neurological symptoms.
 </aside>
 
