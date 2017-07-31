@@ -2,20 +2,24 @@
 % Tyler Carter
 % 27 July, 2017
 
-# Pesticides
-
-
-
-
-# Markdown in, HTML5  
-Add words
-
-```
-pandoc -t revealjs --template=template-index.html -s --variable theme="black" --variable transition="slide" --variable revealjs-url="./" YOUR-MARKDOWN-FILENAME.md -o YOUR-HTML-FILENAME.html
-```
+# Background to Know 
+Definition and Impact
+<img src="/images/Crop-Duster.jpg"  height="100" width="200">
 
 <aside class="notes">
-Every top level markdown header in this file will be translated into a "section" in your HTML5 output. This output will be plain, using only the base reveal.js style. The command above, mutatis mutandis, will let you do the conversion.
+According to the NIEHS, a pesticide is “any substance used to kill, repel, or control certain forms of plant or animal life that are considered to be pests.”
+These include herbicides, insecticides, fungicides, and disinfectants. 
+Pesticides are an issue because of their harmful (toxic) effects on the environment and on animal life (including humans).
+Rachel Carson’s “Silent Spring” alerted the world of the harmful effects of pesticides.
+
+</aside>
+
+# Environmental Impact
+
+<aside class="notes">
+As mentioned in the previous slide, pesticides pose a potentially detrimental consequence on the environment.
+Concerning humans, according to the NIEHS, evidence suggests that children who have been exposed to pesticides have been linked to neurodevelopmental issues. Farmers who use the harmful chemicals experienced an increase in headaches, fatigue, insomnia, dizziness, hand tremors, and other neurological symptoms.
+
 </aside>
 
 # Adding audio
