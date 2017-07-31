@@ -68,8 +68,8 @@ IPM has proved since around 1972 to be an extremely useful and successful tool. 
 
 # Unique Solutions
 
-<img src="https://i5.walmartimages.com/asr/f78df6ec-a5d5-4589-bfae-29a4ba8001d7_1.d1e5b8291bf12d63d511afeede20c1ae.jpeg"  height="300" width="300">
-<img src="https://images-na.ssl-images-amazon.com/images/I/41Lgw3jfupL.jpg"  height="400" width="100">
+<img src="https://i5.walmartimages.com/asr/f78df6ec-a5d5-4589-bfae-29a4ba8001d7_1.d1e5b8291bf12d63d511afeede20c1ae.jpeg"  height="337" width="337">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41Lgw3jfupL.jpg"  height="337" width="200">
 
 <aside class="notes">
 There are always downsides to every idea, but I propose two solutions to losing reliance on pesticides:
@@ -86,7 +86,5 @@ Using sticky traps and natural herbicides (vinegar which is too acidic, kills we
 The pesticide issue, since the release of Rachel Carson’s “Silent Spring”, has gotten better. Many of the worst pesticides have been banned, and new, concentrated pesticides have been implemented to replace the old.
 These new pesticides take less to do the same work, and take longer to be resisted.
 </aside>
-
-
 
 
