@@ -4,7 +4,7 @@
 
 # Background to Know 
 Definition and Impact
-<img src="/images/Crop-Duster.jpg"  height="100" width="200">
+<img src="/download/Crop-Duster.jpg"  height="200" width="400">
 
 <aside class="notes">
 According to the NIEHS, a pesticide is “any substance used to kill, repel, or control certain forms of plant or animal life that are considered to be pests.”
